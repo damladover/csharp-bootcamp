@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A275632-961F-4BF9-A511-C5FB3B813BD8}|02_Variables\\02_Variables.csproj|c:\\users\\lenovo\\source\\repos\\csharpkamp\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A275632-961F-4BF9-A511-C5FB3B813BD8}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F037AAB-7722-4D33-9471-A7D35799F652}|01_MainSubjects\\01_MainSubjects.csproj|c:\\users\\lenovo\\source\\repos\\csharpkamp\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F037AAB-7722-4D33-9471-A7D35799F652}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\02_Variables\\Program.cs*",
+              "RelativeToolTip": "02_Variables\\Program.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwGgAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:21:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\01_MainSubjects\\Program.cs",
               "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\01_MainSubjects\\Program.cs*",
-              "RelativeToolTip": "01_MainSubjects\\Program.cs*",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T10:31:05.228Z",
               "EditorCaption": ""
