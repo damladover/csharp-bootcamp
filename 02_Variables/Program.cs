@@ -114,11 +114,34 @@ namespace _02_Variables
 
             #region klavyeden tam sayı girişleri ve dönüşümler
 
+            int shoesPrice, computerPrice, chairPrice;
+            shoesPrice = 1000;
+            computerPrice = 20000;
+            chairPrice = 5000;
+
+            int shoescount, computercount, chaircount;
+
+            Console.Write("lütfen aldığınız ürün sayısını giriniz:");
+            shoescount = int.Parse(Console.ReadLine());
+
+            Console.Write("lütfen aldığınız ürün sayısınn giriniz:");
+            computercount = int.Parse(Console.ReadLine());
+
+            Console.Write("lütfen aldığınız ürün sayısınn giriniz:");
+            chaircount = int.Parse(Console.ReadLine());
+
+            int totalPrice = shoescount * shoesPrice + computerPrice + computercount + chaircount + chairPrice;
+
+            Console.WriteLine();
+            Console.WriteLine("toplam tutar:"+totalPrice);
+
 
 
 
 
             #endregion
+
+
             Console.Read();
 
         }
