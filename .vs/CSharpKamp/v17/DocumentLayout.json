@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A8D9B3C-ABF7-4C46-976F-D103CDB90C32}|05_LoopWithStars\\05_LoopWithStars.csproj|c:\\users\\lenovo\\source\\repos\\csharpkamp\\05_loopwithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8D9B3C-ABF7-4C46-976F-D103CDB90C32}|05_LoopWithStars\\05_LoopWithStars.csproj|solutionrelative:05_loopwithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F240A8E8-1676-47DF-920D-462C120D46E3}|04_Loops\\04_Loops.csproj|c:\\users\\lenovo\\source\\repos\\csharpkamp\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F240A8E8-1676-47DF-920D-462C120D46E3}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB25277-CBD4-4FFF-842E-D90B98F8BE0A}|03_MakingDesicion\\03_MakingDesicion.csproj|c:\\users\\lenovo\\source\\repos\\csharpkamp\\03_makingdesicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EB25277-CBD4-4FFF-842E-D90B98F8BE0A}|03_MakingDesicion\\03_MakingDesicion.csproj|C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\03_makingdesicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EB25277-CBD4-4FFF-842E-D90B98F8BE0A}|03_MakingDesicion\\03_MakingDesicion.csproj|solutionrelative:03_makingdesicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\05_LoopWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "05_LoopWithStars\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\05_LoopWithStars\\Program.cs",
+              "RelativeToolTip": "05_LoopWithStars\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:10:50.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\04_Loops\\Program.cs",
               "RelativeDocumentMoniker": "04_Loops\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\04_Loops\\Program.cs",
               "RelativeToolTip": "04_Loops\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwLEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwLEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T09:46:54.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\03_MakingDesicion\\Program.cs",
               "RelativeDocumentMoniker": "03_MakingDesicion\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "03_MakingDesicion\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T19:50:29.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T19:50:29.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\02_Variables\\Program.cs",
               "RelativeDocumentMoniker": "02_Variables\\Program.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CSharpKamp\\01_MainSubjects\\Program.cs",
               "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
